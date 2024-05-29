@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biswas banstola</h1>
 <h3 align="center">A passionate software student from Nepal</h3>
-<img src="https://c.tenor.com/9Hlh1EvqSvUAAAAC/tenor.gif" style="height:60vh;width:70vw;text-align:center;">
+<center><img src="https://c.tenor.com/9Hlh1EvqSvUAAAAC/tenor.gif" style="height:40vh;width:55vw;text-align:center;"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswas-github&label=Profile%20views&color=0e75b6&style=flat" alt="biswas-github" /> </p>
 
